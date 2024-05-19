@@ -68,6 +68,8 @@ class _CallScreenState extends State<CallScreen> {
 
                   const Icon(Icons.call_sharp,color: Color(0xFF075E55),),
 
+                  const Text("")
+
 
                 ],
               ),
